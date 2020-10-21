@@ -1,6 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Happy Birthday</string>
     <string name="happy_birthday_jay">Happy Birthday, Jay</string>
     <string name="from_droid">From Droid</string>
-    <string name="todo">TODO</string>
 </resources>
